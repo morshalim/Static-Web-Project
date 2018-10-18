@@ -25,7 +25,7 @@ var orderInfo = function(){
 		arr.push('	</div>');
 		arr.push('</div>');
 		arr.push('</table');
-		$('#studentTable').html(arr.join(''));
+		$('#orderTable').html(arr.join(''));
 
 
 	}
